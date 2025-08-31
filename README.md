@@ -1,4 +1,4 @@
-# File Shares and Permissions Lab
+# File Shares and Permissions 
 
 ## Summary
 In this lab, I created shared folders on a domain controller, set different permissions, tested access from a client, and verified that permissions worked correctly.  
